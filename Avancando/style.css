@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nml-h1 {
+    text-align: left;
+    color: darkcyan;
+
+}
+
+.nml {
+    border: 2px solid #de1313;
+    margin: 45px;
+    width: 300px;
+}
